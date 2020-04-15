@@ -3,7 +3,7 @@
 Uma maratona de 10 aulas para criar seus primeiros códigos!
 <br>Programação com JavaScript, além de HTML e CSS.
 
-<br>Esses são os meus códigos realizados durante a maratona,progamas escritos no site codepen.io.
+<br>Esses são os meus códigos realizados durante a maratona, progamas escritos no site codepen.io.
 
 <br>Aula1 - Calculo-Batimentos-Cardiacos
 <br>Aula2 - IMC
